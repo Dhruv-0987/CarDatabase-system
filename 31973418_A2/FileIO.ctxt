@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=FileIO
+comment0.text=\r\n\ class\ for\ reading\ and\ writing\ from\ external\ files\r\n\r\n\ @author\ Dhruv\ Mathur\r\n\ @version\ 25-05-2021\r\n
+comment1.params=
+comment1.target=FileIO()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ FileIO\r\n
+comment2.params=fileName
+comment2.target=java.lang.String\ readFile(java.lang.String)
+comment2.text=\r\n\ To\ read\ from\ a\ comma\ seprated\ file\r\n\ @param\ fileName\ of\ type\ String\r\n\ @return\ void\r\n
+comment3.params=content\ fileName
+comment3.target=void\ writeFile(java.lang.String,\ java.lang.String)
+comment3.text=\r\n\ To\ write\ to\ a\ file\ in\ a\ comma\ seperated\ format\r\n\ @param\ fileName\ of\ type\ String,\ content\ of\ type\ Stirng\r\n\ @return\ void\r\n
+numComments=4

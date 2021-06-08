@@ -1,0 +1,4 @@
+ABC132,2007,green,yellow,purple,Toyota,Corolla,30000
+MARY21,2017,Dark Grey,Blue,,BMW,X5,25132
+XXXXXX,2012,Blue,Light Green,,Honda,Civic,2000
+ABC132,2007,Yellow,,,Toyota,Corolla,5900

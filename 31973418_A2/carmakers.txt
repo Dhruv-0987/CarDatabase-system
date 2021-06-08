@@ -1,0 +1,6 @@
+Toyota,Prius,Corolla,Camry,Celica
+Holden,Commodore,Barina,Apollo,Astra
+Hyundai,Sonata,Elantra,Tucson
+Kia,Sportage,Stinger,Carnival,Sorento
+MyOwnBrand,Thor,Ironman,Hulk,Superman,Thanos,Shrek
+Dodge,charger,hellcat,aventador,maclaren
